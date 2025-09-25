@@ -10,8 +10,8 @@
 </script>
 
 <Hero
-	title="Turn hours into minutes"
-	subtitle="Record once. Automate everywhere."
+	title="Reclaim hours every day with 3-minute workflows"
+	subtitle="Record a task once. Automate it everywhere—no coding, no integrations."
 	centered={true}
 />
 <LogoScroller 

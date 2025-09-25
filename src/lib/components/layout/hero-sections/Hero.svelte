@@ -72,7 +72,7 @@
 		{...rest}
 	>
 		<!-- Black overlay -->
-		<div class="absolute inset-0 bg-black/50"></div>
+		<div class="absolute inset-0 bg-black/70"></div>
 		
 		<!-- Content -->
 		<div class="relative z-10 text-center text-white px-6 max-w-4xl mx-auto" data-enter-container>
