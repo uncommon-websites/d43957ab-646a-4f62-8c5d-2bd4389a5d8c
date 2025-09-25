@@ -10,9 +10,9 @@
 </script>
 
 <Hero
-	title="Transform 3-hour operational tasks into 3-minute checks"
-	subtitle="Record your workflow once, and let MindfulScale automate it across any website or application. Scale your team's productivity without hiring more staff."
-	imageSrc="/generated/image-candid-photograph-of-a-professional-oper.webp"
+	title="Turn hours into minutes"
+	subtitle="Record once. Automate everywhere."
+	imageSrc="/generated/image-a-professional-operations-manager-in-a-m.webp"
 	centered={false}
 />
 <LogoScroller 
