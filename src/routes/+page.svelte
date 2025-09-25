@@ -12,8 +12,7 @@
 <Hero
 	title="Turn hours into minutes"
 	subtitle="Record once. Automate everywhere."
-	imageSrc="/generated/image-a-professional-operations-manager-in-a-m.webp"
-	centered={false}
+	centered={true}
 />
 <LogoScroller 
 	label="Trusted by industry leaders"
