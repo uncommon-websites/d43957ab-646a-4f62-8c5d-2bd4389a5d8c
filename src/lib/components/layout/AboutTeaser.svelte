@@ -32,7 +32,7 @@ A minimalist teaser for the about page.
 		<div class="relative mx-auto grid max-w-2xl place-items-center gap-16">
 			<ScrollText
 				class="text-title1 text-center"
-				text={`"I built MindfulScale after watching operations teams burn out from endless manual tasks. There had to be a way to scale without just adding more people. What started as a simple screen recorder became the automation tool that transforms 3-hour daily reports into 3-minute checks."`}
+				text={`"I built Rivulo after watching operations teams burn out from endless manual tasks. There had to be a way to scale without just adding more people. What started as a simple screen recorder became the automation tool that transforms 3-hour daily reports into 3-minute checks."`}
 			/>
 
 			<!-- Team Member & CTA Section -->

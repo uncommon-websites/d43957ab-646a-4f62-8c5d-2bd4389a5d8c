@@ -34,8 +34,8 @@
 <Story
 	paragraphs={[
 		"Operations managers are spending more than 15 hours a week chasing data, copy-pasting into spreadsheets, and refreshing dashboards that never sync. It's the kind of work that eats into mornings, drains morale, and prevents teams from scaling without hiring. Most tools promise automation, but require heavy integration, constant maintenance, or break when websites change—leaving managers back where they started.",
-		"With MindfulScale, you just perform the task once—clicking through fields, tabs, filters like you normally would. Our browser automation records every action and then runs it automatically across any web-based tool, no matter what it is. This works without integrations or API access because we mimic your actual clicks, just like a human would. The result is a workflow that runs reliably, without breaking, in minutes—not months.",
-		"MindfulScale lets growing operations teams generate reports, update tools, and sync data without adding headcount. Update CRMs, pull analytics, or fill spreadsheets—without logging in a dozen times a day. Our users reclaim their mornings, eliminate human error, and focus on what actually moves the business forward."
+		"With Rivulo, you just perform the task once—clicking through fields, tabs, filters like you normally would. Our browser automation records every action and then runs it automatically across any web-based tool, no matter what it is. This works without integrations or API access because we mimic your actual clicks, just like a human would. The result is a workflow that runs reliably, without breaking, in minutes—not months.",
+		"Rivulo lets growing operations teams generate reports, update tools, and sync data without adding headcount. Update CRMs, pull analytics, or fill spreadsheets—without logging in a dozen times a day. Our users reclaim their mornings, eliminate human error, and focus on what actually moves the business forward."
 	]}
 />
 
